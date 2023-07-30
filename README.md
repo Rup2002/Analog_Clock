@@ -3,7 +3,7 @@
 An interactive analog clock built with HTML, CSS, and JavaScript. This clock features rotating hour, minute, and second hands, and also displays the current time in digital format below the clock.
 
 # Screenshots
-![Screenshot (236)](https://github.com/Anushka-Bhowmick/Analog_Clock/assets/76967222/1094712c-9b07-41be-aead-73bcd747b2ec)
+![Screenshot (237)](https://github.com/Anushka-Bhowmick/Analog_Clock/assets/76967222/cafc3d7a-bb4b-496c-9549-74f8595bfeee)
 
 ## Features
 
