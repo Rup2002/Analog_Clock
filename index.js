@@ -7,7 +7,18 @@ setInterval(() => {
     mrotation = 6*mtime;
     srotation = 6*stime;
 
+     // for displayTime
+     h.innerHTML=htime;
+     m.innerHTML=mtime;
+     s.innerHTML=stime;
+
     hour.style.transform = `rotate(${hrotation}deg)`;
     minute.style.transform = `rotate(${mrotation}deg)`;
     second.style.transform = `rotate(${srotation}deg)`;
 }, 1000);
+
+function addZero(time) {
+
+    return (time < 10) ? "0" + time : time;
+
+}
